@@ -1,0 +1,23 @@
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+  }
+  
+  input {
+    margin-left: 10px;
+  }
+  
+  button {
+    margin-left: 100px;
+  }
+  
+  th, td {
+    padding: 5px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
